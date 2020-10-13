@@ -14,5 +14,14 @@
         <module name="human-springcloud" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="human-fighting-plan" target="1.5" />
+      <module name="human-leetcode" target="1.5" />
+      <module name="human-mybatis" target="1.5" />
+      <module name="human-redis" target="1.5" />
+      <module name="human-spring" target="1.5" />
+      <module name="human-springboot" target="1.5" />
+      <module name="human-springcloud" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

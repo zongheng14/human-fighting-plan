@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/human-fighting-plan.iml" filepath="$PROJECT_DIR$/human-fighting-plan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/human-leetcode/human-leetcode.iml" filepath="$PROJECT_DIR$/human-leetcode/human-leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/human-mybatis/human-mybatis.iml" filepath="$PROJECT_DIR$/human-mybatis/human-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/human-redis/human-redis.iml" filepath="$PROJECT_DIR$/human-redis/human-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/human-spring/human-spring.iml" filepath="$PROJECT_DIR$/human-spring/human-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/human-springboot/human-springboot.iml" filepath="$PROJECT_DIR$/human-springboot/human-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/human-springcloud/human-springcloud.iml" filepath="$PROJECT_DIR$/human-springcloud/human-springcloud.iml" />
+    </modules>
+  </component>
+</project>
