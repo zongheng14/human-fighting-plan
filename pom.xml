@@ -15,6 +15,7 @@
         <module>human-springcloud</module>
         <module>human-springboot</module>
         <module>human-mybatis</module>
+        <module>human-collection</module>
     </modules>
 
 

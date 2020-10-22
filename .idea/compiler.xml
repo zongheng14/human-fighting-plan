@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="human-collection" />
         <module name="human-leetcode" />
         <module name="human-mybatis" />
         <module name="human-redis" />
@@ -15,6 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="human-collection" target="1.5" />
       <module name="human-fighting-plan" target="1.5" />
       <module name="human-leetcode" target="1.5" />
       <module name="human-mybatis" target="1.5" />
