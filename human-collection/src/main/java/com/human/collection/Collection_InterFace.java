@@ -16,6 +16,13 @@ public class Collection_InterFace {
 
 
         Map map = new HashMap();
+
+        Map<Object, Object> objectObjectLinkedHashMap = new LinkedHashMap();
+
+
+
+
+
     }
 
 
