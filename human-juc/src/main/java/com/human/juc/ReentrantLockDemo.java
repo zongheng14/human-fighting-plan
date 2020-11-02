@@ -1,11 +1,12 @@
 package com.human.juc;
 
 /**
+ * <>模拟</>
  * @author shaonan.hu
  * @version V1.0
  * @Time 2020/11/2
  */
-public class JUC {
+public class ReentrantLockDemo {
     public static void main(String[] args) {
         Phone phone = new Phone();
         // 两个线程操作资源列
@@ -31,7 +32,6 @@ public class JUC {
  * 资源类
  */
 class Phone {
-
     /**
      * 发送短信
      * @throws Exception

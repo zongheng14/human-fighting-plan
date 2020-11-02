@@ -3,11 +3,12 @@ package com.human.juc;
 import java.util.concurrent.atomic.AtomicReference;
 
 /**
+ * <>模拟自旋锁</>
  * @author shaonan.hu
  * @version V1.0
  * @Time 2020/11/2
  */
-public class Spli {
+public class SpinLock {
     public static void main(String[] args) {
         Suosuo suosuo = new Suosuo();
 
