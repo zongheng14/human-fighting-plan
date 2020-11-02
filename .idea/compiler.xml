@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="human-algorithmic-and-datastructure" />
         <module name="human-collection" />
+        <module name="human-designmode" />
+        <module name="human-juc" />
         <module name="human-leetcode" />
         <module name="human-mybatis" />
         <module name="human-redis" />
@@ -16,10 +18,12 @@
         <module name="human-springcloud" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="human-algorithmic-and-datastructure" target="1.5" />
       <module name="human-collection" target="1.5" />
+      <module name="human-designmode" target="1.5" />
       <module name="human-fighting-plan" target="1.5" />
+      <module name="human-juc" target="1.8" />
       <module name="human-leetcode" target="1.5" />
       <module name="human-mybatis" target="1.5" />
       <module name="human-redis" target="1.5" />

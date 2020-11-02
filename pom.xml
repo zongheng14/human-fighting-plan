@@ -17,6 +17,8 @@
         <module>human-mybatis</module>
         <module>human-collection</module>
         <module>human-algorithmic-and-datastructure</module>
+        <module>human-designmode</module>
+        <module>human-juc</module>
     </modules>
 
 
