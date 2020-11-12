@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/human-designmode/human-designmode.iml" filepath="$PROJECT_DIR$/human-designmode/human-designmode.iml" />
       <module fileurl="file://$PROJECT_DIR$/human-fighting-plan.iml" filepath="$PROJECT_DIR$/human-fighting-plan.iml" />
       <module fileurl="file://$PROJECT_DIR$/human-juc/human-juc.iml" filepath="$PROJECT_DIR$/human-juc/human-juc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/human-jvm/human-jvm.iml" filepath="$PROJECT_DIR$/human-jvm/human-jvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/human-leetcode/human-leetcode.iml" filepath="$PROJECT_DIR$/human-leetcode/human-leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/human-mybatis/human-mybatis.iml" filepath="$PROJECT_DIR$/human-mybatis/human-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/human-redis/human-redis.iml" filepath="$PROJECT_DIR$/human-redis/human-redis.iml" />

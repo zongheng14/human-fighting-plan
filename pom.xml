@@ -19,6 +19,7 @@
         <module>human-algorithmic-and-datastructure</module>
         <module>human-designmode</module>
         <module>human-juc</module>
+        <module>human-jvm</module>
     </modules>
 
 
